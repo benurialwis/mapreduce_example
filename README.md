@@ -1,2 +1,5 @@
-# mapreduce_example
-Average calculation using map reduce
+# Average calculation using MapReduce
+
+A simple implementation of a MapReduce program for average calculation
+
+Executable JAR:
